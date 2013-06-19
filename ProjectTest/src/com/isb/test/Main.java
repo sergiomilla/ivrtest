@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Esto es una prueba.");
 		//Añado esto para solucionar el bug1
 		System.out.println("Solucionado");
+		System.out.println("Además añado esto. Que pasara??");
 	}
 
 }
