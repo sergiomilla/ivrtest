@@ -10,6 +10,7 @@ public class Alumno {
 		return nombre;
 	}
 	
+	//Nombre del alumno
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
