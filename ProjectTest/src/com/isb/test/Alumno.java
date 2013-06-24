@@ -8,6 +8,7 @@ public class Alumno {
 	//Apellido del alumno
 	public String apellido;
 	
+	//Getter del nombre
 	public String getNombre() {
 		return nombre;
 	}
