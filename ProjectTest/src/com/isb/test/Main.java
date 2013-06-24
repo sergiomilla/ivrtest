@@ -11,7 +11,9 @@ public class Main {
 		System.out.println("a = " + a);
 		
 		String name = "Wenceslao";
-		System.out.println(name);
+		String apellido = "Rivera";
+		System.out.println(name + apellido);
+		
 	}
 
 }
