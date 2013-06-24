@@ -23,4 +23,8 @@ public class Alumno {
 		this.apellido = apellido;
 	}
 	
+	public String getNombreCompleto() {
+		return nombre + " " + apellido;
+	}
+	
 }
