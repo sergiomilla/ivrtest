@@ -5,7 +5,7 @@ public class Alumno {
 	//Nombre del alumno
 	public String nombre;
 
-	//Nombre del apellido
+	//Apellido del alumno
 	public String apellido;
 	
 	public String getNombre() {
