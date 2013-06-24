@@ -8,7 +8,7 @@ public class Alumno {
 	//idaferv - 24062013 - Apellido del alumno
 	public String apellido;
 	
-	//Getter del nombre
+	//Getter del nombre - prueba
 	public String getNombre() {
 		return nombre;
 	}
