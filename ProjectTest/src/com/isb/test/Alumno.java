@@ -5,7 +5,7 @@ public class Alumno {
 	//idaferv - 24062013 - Nombre del alumno
 	public String nombre;
 
-	//idaferv - 24062013 - Apellido del alumno
+	//idafereyes - 24062013 - Apellido del alumno
 	public String apellido;
 	
 	//Getter del nombre - prueba
