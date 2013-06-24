@@ -10,6 +10,9 @@ public class Main {
 		//Nueva línea de código
 		int a = 1;
 		System.out.println("a = "+a);
+		
+		String name = "Wenceslao";
+		System.out.println(name);
 	}
 
 }
