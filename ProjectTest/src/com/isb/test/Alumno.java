@@ -2,7 +2,7 @@ package com.isb.test;
 
 public class Alumno {
 
-	//Nombre del alumno
+	//idaferv - Nombre del alumno
 	public String nombre;
 
 	//idaferv - Apellido del alumno
