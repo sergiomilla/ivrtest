@@ -2,15 +2,16 @@ package com.isb.test;
 
 public class Alumno {
 
+	//Nombre del alumno
 	public String nombre;
 
+	//Nombre del apellido
 	public String apellido;
 	
 	public String getNombre() {
 		return nombre;
 	}
 	
-	//Nombre del alumno
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
@@ -26,5 +27,6 @@ public class Alumno {
 	public String getNombreCompleto() {
 		return nombre + " " + apellido;
 	}
+	
 	
 }
