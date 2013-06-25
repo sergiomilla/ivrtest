@@ -21,6 +21,7 @@
 		<log> DISCONNECT  </log>	
 		<assign name="PRM_codigoRetorno" expr="'CUELGUE'"/>		
 		<log label="TRAZAS"> HANG UP </log>		
+		<log label="TRAZAS"> El usuario ha colgado </log>
 		<goto next="finServicio.jsp"/>
 	</catch>	
 	
