@@ -2,6 +2,7 @@
 <vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="es-ES" xml:base="http://<%= request.getServerName() %>:<%= request.getServerPort() + "/POCsVXML/Tests/" %>" application="inicio.jsp"  >
 
 <form> 
+	<!-- Pruebas para validar el tag foreach -->
 	<block> 
 		<prompt>Primero vamos a utilizar el for each para reproducir un array de juegos y dejar trazas con log.</prompt>
 		
