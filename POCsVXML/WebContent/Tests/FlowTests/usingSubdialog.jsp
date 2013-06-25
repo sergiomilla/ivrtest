@@ -9,6 +9,7 @@
 		  <prompt>A continuación, hacemos uso del subdialog.</prompt>
 		</block>
 		
+		<!-- Esta es la llamada al subdialogo subdialogPrueba -->
 		<subdialog name="subdialogPrueba" src="FlowTests/subdialog.jsp">
 			<param name="PRM_cantidadDeuda" expr="10000"/>
 		
