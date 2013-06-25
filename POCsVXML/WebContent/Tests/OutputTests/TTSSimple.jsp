@@ -4,6 +4,7 @@
 	<form>
 		<block>
 			<prompt> Reproduciendo un TTS simple. </prompt>
+			<prompt> Se pueden añadir todos los prompts que se quiera </prompt>
 			<goto next="OutputTests/outputTestsMenu.jsp"/>
 		</block>
 	</form>
