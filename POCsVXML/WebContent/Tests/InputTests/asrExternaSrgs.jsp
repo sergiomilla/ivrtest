@@ -17,7 +17,7 @@
     	<prompt> No te he entendido. Diga hipotecas, saldo o agente. </prompt>    
     </nomatch>
 
-	<grammar mode="voice" src="Resources/Gramaticas/gramatica_menu.bnf" />
+	<grammar mode="voice" src="Resources/Gramaticas/gramatica_opciones.bnf" />
 
     <filled>
 		<prompt bargein="false"> 
