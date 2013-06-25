@@ -1,0 +1,10 @@
+<?xml version="1.0" ?> 
+<xml> 
+  <parent> 
+    <child1>valor uno</child1> 
+    <child2>valor dos</child2> 
+    <child3>valor tres</child3> 
+    <child4>valor cuatro</child4> 
+    <child5>valor cinco</child5> 
+  </parent> 
+</xml>
