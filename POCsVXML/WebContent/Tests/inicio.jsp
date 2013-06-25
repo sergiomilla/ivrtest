@@ -8,6 +8,7 @@
 
 	<var name="PRM_codigoRetorno" expr="''"/>
 	<var name="fromV21Tests" expr="false" />
+	<var name="gitVar" />
 	
 	<!-- 
 	************************************************
