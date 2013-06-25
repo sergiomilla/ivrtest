@@ -13,7 +13,7 @@
     <nomatch> 	
     	<prompt> No te he entendido. Pulse 1, 2 o 3 para volver al menú anterior. </prompt>    
     </nomatch>
-  <choice dtmf="1" next="InputTests/inputTestsMenu.jsp"/>
+  <choice dtmf="1" next="inicio.jsp"/>
   <choice dtmf="2" next="InputTests/inputTestsMenu.jsp"/>
   <choice dtmf="3" next="InputTests/inputTestsMenu.jsp"/>
 </menu>
