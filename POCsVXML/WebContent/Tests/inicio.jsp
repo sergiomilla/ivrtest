@@ -35,9 +35,9 @@
 		
 		<assign name="PRM_codigoRetorno" expr="'ERROR NO RESOURCE'"/>		
 		<log label="TRAZAS"> ERROR NO RESOURCE </log>	
+		<!-- Probando. -->		
 		<log label="TRAZAS"> No hay recurso de TTS o ASR </log>		
-		<goto next="finServicio.jsp"/>
-	
+
 	</catch>
 	
 	<!-- 
