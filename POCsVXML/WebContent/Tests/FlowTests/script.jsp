@@ -5,6 +5,7 @@
   <var name="result"/>
   <block>
     <prompt>Cargamos un archivo script externo y lo utilizamos para hacer la suma de uno más uno.</prompt>
+    <!-- Script que suma dos números. -->
     <script src="Resources/js/add2nums.js"/>
     <assign name="result" expr="add2nums(1,1)"/>
     <prompt>El resultado es: <value expr="result"/>.</prompt>
