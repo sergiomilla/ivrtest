@@ -9,6 +9,12 @@
 	<var name="PRM_codigoRetorno" expr="''"/>
 	<var name="fromV21Tests" expr="false" />
 	<var name="gitNuevaVar2" />
+
+	<!-- 
+	************************************************
+	******************* DANIEL *********************
+	************************************************
+	-->
 	
 	<!-- 
 	************************************************
@@ -31,7 +37,8 @@
 	*****************************************
 	-->
 	
-	<catch event="error.noresource">
+	
+	<catch event="error.noresource.unsupportedlanguaje">
 		
 		<assign name="PRM_codigoRetorno" expr="'ERROR NO RESOURCE'"/>		
 		<log label="TRAZAS"> ERROR NO RESOURCE </log>	
