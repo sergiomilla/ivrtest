@@ -7,7 +7,7 @@
   -->
 
 
-	<var name="PRM_codigoRetorno" expr="''"/>
+	<var name="PRM_codigoRetorno2" expr="''"/>
 	<var name="fromV21Tests" expr="false" />
 	<var name="gitNuevaVar2" />
 
