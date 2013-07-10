@@ -53,6 +53,19 @@
 	
 	</catch>	
 
+	<!-- 
+	******************************************
+	********** CAPTURA DE ERROR UNSOPPORTED LANGUAGE **************
+	******************************************
+	-->
+	
+	<catch event="error.unsopportedLanguage">	
+		<assign name="PRM_codigoRetorno" expr="'ERROR'"/>		
+		<log label="TRAZAS"> ERROR </log>		
+		<goto next="finServicio.jsp"/>
+	
+	</catch>	
+
 
 	<form id="inicio">
 				
