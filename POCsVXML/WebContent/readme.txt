@@ -1,5 +1,7 @@
 Proyecto POCsVXML.
 
+Cambio...
+
 Contiene una serie de pruebas de concepto de VXML probadas básicamente en VXI/Verbio.
 
 La página Tests/inicio.jsp es el root de la aplicación y contiene un menú con los tipos de pruebas. 
